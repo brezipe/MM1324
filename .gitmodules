@@ -1,0 +1,6 @@
+[submodule "betano"]
+	path = betano
+	url = https://github.com/brezipe/BetanoScrapper.git
+[submodule "kick"]
+	path = kick
+	url = https://github.com/brezipe/KickBot.git
