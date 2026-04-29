@@ -1,4 +1,4 @@
-##Subrepa:
+Push:
 
 Změny v kick nebo betano → git push
 
