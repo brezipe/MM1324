@@ -1,5 +1,5 @@
-Subrepa:
+##Subrepa:
 
---betano
+Změny v kick nebo betano → git push
 
---kick
+V root . → git add . + git commit + git push
