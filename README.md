@@ -1,3 +1,6 @@
+## Vytvořeno pro: [https://ministrmystery.cz](https://ministrmystery.cz)
+
+
 Push:
 
 Změny v kick nebo betano → git push
